@@ -1,0 +1,29 @@
+* {
+	font-family: arial, sens-serif;
+	background-color: #D2D2D2;
+}
+
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+header {
+	text-align: center;
+}
+p {
+	font-size: 25px;
+	color: #C2A1C4; 
+	text-align: center;
+}
+h1 {
+	color: #C2A1C4;
+	text-align: center;
+}
+.img1 {
+	width: 276px;
+	margin: 0 auto;
+} 
+.process {
+	width: 968px;
+	margin: 0 auto;
+}
